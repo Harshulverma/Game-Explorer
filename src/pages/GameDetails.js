@@ -56,14 +56,14 @@ const GameDetails = () => {
           </Button>
         </Col>
       </Row>
-      <h3 className="mt-4">Screenshots</h3>
-      <Carousel>
-        {game.screenshots && game.screenshots.map((screenshot) => (
-          <Carousel.Item key={screenshot.id}>
-            <img className="d-block w-100" src={screenshot.image} alt="Game Screenshot" />
-          </Carousel.Item>
-        ))}
-      </Carousel>
+      // <h3 className="mt-4">Screenshots</h3>
+      // <Carousel>
+      //   {game.screenshots && game.screenshots.map((screenshot) => (
+      //     <Carousel.Item key={screenshot.id}>
+      //       <img className="d-block w-100" src={screenshot.image} alt="Game Screenshot" />
+      //     </Carousel.Item>
+      //   ))}
+      // </Carousel>
     </Container>
   );
 };
