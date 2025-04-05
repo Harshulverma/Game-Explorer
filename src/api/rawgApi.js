@@ -1,4 +1,4 @@
-const API_KEY = "c33b1e9c6c294c92b31e87e9881fd7c0"; // Replace with your API key
+const API_KEY = "c33b1e9c6c294c92b31e87e9881fd7c0"; 
 const BASE_URL = "https://api.rawg.io/api";
 
 export const fetchGames = async () => {
