@@ -41,6 +41,3 @@ cd game-hub
 npm install
 npm start
 
-🔑 Create a .env file in the root and add your RAWG API key:
-
-REACT_APP_RAWG_API_KEY=your_api_key_here
