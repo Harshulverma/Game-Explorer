@@ -3,6 +3,12 @@
 A fully responsive front-end web application that fetches and displays real-time video game data using the RAWG API. Built with **React**, styled using **Bootstrap**, and enhanced with **Clerk Auth** and **Redux** for a dynamic user experience.
 ---
 
+## 🚀 Live Demo
+
+🌐 [Live Site](https://game-explorer-rho.vercel.app/)
+
+---
+
 ## 📌 Features
 
 - ✅ Responsive UI with clean layout and game cards  
@@ -28,7 +34,16 @@ A fully responsive front-end web application that fetches and displays real-time
 
 ## 📂 Folder Structure (Simplified)
 
-📁 src/ │ ├── 📁 api/ # API fetch functions ├── 📁 components/ # Reusable UI components (Navbar, Filters, Cards) ├── 📁 pages/ # Main pages (Home, GameDetail, Library) ├── 📁 redux/ # Redux store, slices ├── App.js ├── index.js └── styles.css
+📁 src/
+│
+├── 📁 api/                # API fetch functions
+├── 📁 components/         # Reusable UI components (Navbar, Filters, Cards)
+├── 📁 pages/              # Main pages (Home, GameDetail, Library)
+├── 📁 redux/              # Redux store, slices
+├── App.js
+├── index.js
+└── styles.css
+
 
 
 ---
