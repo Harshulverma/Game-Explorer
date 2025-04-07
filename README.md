@@ -51,7 +51,7 @@ A fully responsive front-end web application that fetches and displays real-time
 ## 🛠️ Setup & Run Locally
 
 ```bash
-git clone https://github.com/yourusername/game-explorer.git
+git clone https://github.com/Harshulverma/Game-Explorer.git
 cd game-hub
 npm install
 npm start
